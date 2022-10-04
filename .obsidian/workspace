@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "602f4065618dbd50",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ed3b4c36d8018a6",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "922f1f7e6f3ca46f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f735ebf2a821ead",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3cf2e496f25e81b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "97c6c92cd6f5de14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3a41663fada0063",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7baecd48e69f761c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f0fd4683cc95af5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b27795bc88365550",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3fe1dbd921cc9913",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa7344a2aa00e42d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "28099b283699f78a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8ed3b4c36d8018a6",
+  "lastOpenFiles": [
+    "course-zoomcamp/03-classification/notes/notebook.md",
+    "course-zoomcamp/03-classification/notes/3.3-validation.md",
+    "course-zoomcamp/03-classification/notes/3.2-data-preparation.md",
+    "course-zoomcamp/03-classification/notes/3.5-risk.md",
+    "course-zoomcamp/03-classification/notes/3.4-eda.md",
+    "course-zoomcamp/03-classification/notes/3.1-churn-project.md",
+    "course-zoomcamp/03-classification/notes/3.8-ohe.md",
+    "course-zoomcamp/03-classification/notes/3.7-correlation.md",
+    "2022-09-25.md",
+    "course-zoomcamp/03-classification/04-eda.md"
+  ]
+}
