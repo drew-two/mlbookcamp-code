@@ -1,6 +1,7 @@
 ## 8. Neural Networks and Deep Learning
 
 - 8.1 [Fashion classification](01-fashion-classification.md)
+- 8.1b [Setting up the Environment on Saturn Cloud](01b-saturn-cloud.md)
 - 8.2 [TensorFlow and Keras](02-tensorflow-keras.md)
 - 8.3 [Pre-trained convolutional neural networks](03-pretrained-models.md)
 - 8.4 [Convolutional neural networks](04-conv-neural-nets.md)
@@ -24,3 +25,7 @@ Did you take notes? You can share them here (or in each unit separately)
 * [Kwang Yang's Notes on PyTorch](https://github.com/kwangyy/ml-zoomcamp/blob/main/Week%208%20Code/Week%208%20-%20Deep%20Learning%20but%20PyTorch.ipynb)
 * [Notes from froukje](https://github.com/froukje/ml-zoomcamp/blob/main/week8/Lecture_week_8.ipynb)
 * Add your notes here
+
+## Links
+
+* [Saturn Cloud: notebooks with GPU](https://bit.ly/saturn-mlzoomcamp)
