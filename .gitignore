@@ -4,4 +4,7 @@ __pycache__/
 /chapter-07-neural-nets/clothing-dataset-small/
 /chapter-09-kubernetes/clothing-model/
 /chapter-09-kubeflow/clothing-model/
+course-zoomcamp/cohorts/2022/08-deep-learning/dino-dragon.zip
+course-zoomcamp/cohorts/2022/08-deep-learning/train
+course-zoomcamp/cohorts/2022/08-deep-learning/test
 *.tflite
