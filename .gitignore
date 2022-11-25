@@ -7,4 +7,5 @@ __pycache__/
 course-zoomcamp/cohorts/2022/08-deep-learning/dino-dragon.zip
 course-zoomcamp/cohorts/2022/08-deep-learning/train
 course-zoomcamp/cohorts/2022/08-deep-learning/test
+course-zoomcamp/08-deep-learning/clothing-dataset-small
 *.tflite
